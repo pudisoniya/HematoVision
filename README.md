@@ -1,4 +1,4 @@
-# 🔬 HematoVision: Advanced Blood Cell Classification
+# HematoVision: Advanced Blood Cell Classification
 
 # ✨ Project Overview
 HematoVision is an innovative AI-powered web application designed for the precise and efficient classification of blood cells. Leveraging advanced deep learning techniques, particularly transfer learning, this project aims to assist pathologists and healthcare professionals in rapid diagnostics and research by automatically identifying different types of blood cells from uploaded images.
@@ -175,3 +175,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 # Project Lead: M.Pooja Shree
 # Team Members: Madhu sri,P.Soniya 
 Developed as part of the Smart Bridge AI Internship Program.
+
